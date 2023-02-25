@@ -25,7 +25,7 @@
         "foregroundImage": "./assets/teslalogo.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.suresh780.Tesla"
+      "package": "com.Tesla.Tesla"
     },
     "web": {
       "favicon": "./assets/favicon.png"
