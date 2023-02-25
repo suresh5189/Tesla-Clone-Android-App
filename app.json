@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Tesla",
+    "slug": "Tesla",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/teslalogo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/teslalogo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/teslalogo.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.suresh780.Tesla"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7492973f-48c6-4738-9848-738abc7e2e32"
+      }
+    }
+  }
+}
